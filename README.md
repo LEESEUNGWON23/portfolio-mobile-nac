@@ -3,8 +3,8 @@
 > 본 문서는 팀 프로젝트에서 **본인이 담당한 부분**을 중심으로 작성한 포트폴리오입니다.  
 > 원본 레포지토리: [Mobile-Endpoint-Policy-Engine](https://github.com/LEESEUNGWON23/Mobile-Endpoint-Policy-Engine)
 
-**유형:** 대학교 졸업 작품 (4인 팀 프로젝트)  
-**기간:** 2024년  
+**유형:** 대학교 졸업 작품 (3인 팀 프로젝트)  
+**기간:** 2025년 5월 ~ 2025년 9월
 **본인 역할:** 서버 사이드 전체 — Django 메인 서버, FastAPI ML 서버, Policy Engine  
 **스택:** Python · Django · DRF · FastAPI · PyTorch · Scikit-learn · PostgreSQL
 
